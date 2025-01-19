@@ -1,34 +1,23 @@
 # Hi there 👋 , I'm Kevin!
 I love learn new thing in programming such as Javascript, C#, Python and Dart.  
 
-![KEVIN-69 GitHub stats](https://github-readme-stats.vercel.app/api?username=KEVIN-69&show_icons=true&theme=default)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEVIN-69&layout=compact)](https://github.com/KEVIN-69/github-readme-stats)
+# 💫 About Me:
+I am an information systems student. I have an interest in data analysis and data science.
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kevin-69&theme=dark&hide_border=false)<br/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danilkevins/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/daniel_kevinnss/) 
 
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code" />
-    <img src="https://gpvc.arturio.dev/KEVIN-69" />
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=danielkevins&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=danielkevins&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkevins&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Language I learned:
-<p>
-    <img src="https://img.shields.io/badge/HTML-black?&logo=html5" />
-    <img src="https://img.shields.io/badge/CSS-black?&logo=css3" />
-    <img src="https://img.shields.io/badge/JavaScript-black?&logo=javascript" />
-    <img src="https://img.shields.io/badge/PHP-black?&logo=php" />
-    <img src="https://img.shields.io/badge/Dart-black?&logo=dart" />
-    <img src="https://img.shields.io/badge/C Sharp-black?&logo=C Sharp" />
-    <img src="https://img.shields.io/badge/Python-black?&logo=python" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=danielkevins&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-
-### Let's connect!
-<p>
-    <a href="https://https://www.instagram.com/dksvins/" target="blank"><img src="https://img.shields.io/badge/Daniel_kevin-30302f?style=flat&logo=instagram" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=danielkevins&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Kevin!
-I love learn new thing in programming such as Javascript, C#, Python and Dart.  
+I love learn new thing  
 
 # 💫 About Me:
 I am an information systems student. I have an interest in data analysis and data science.
